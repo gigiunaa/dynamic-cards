@@ -1,0 +1,13 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {"title":"AI/ML Engineer","buttons":[{"url":"https://www.helloteamup.com/career/ai%2Fml-engineer","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Full-time","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"},{"title":"Administrator","buttons":[{"url":"https://www.helloteamup.com/career/administrator","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Full-time","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"},{"title":"L2 Technical Operations Specialist","buttons":[{"url":"https://www.helloteamup.com/career/l2-technical-operations-specialist","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Full-time","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"},{"title":"Senior QA Engineer","buttons":[{"url":"https://www.helloteamup.com/career/senior-qa-engineer","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Freelance","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"},{"title":"Senior Backend Developer","buttons":[{"url":"https://www.helloteamup.com/career/senior-backend-developer","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Full-time","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"},{"title":"Motion Designer","buttons":[{"url":"https://www.helloteamup.com/career/motion-designer","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Freelance","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"},{"title":"German-speaking Virtual Assistant","buttons":[{"url":"https://www.helloteamup.com/career/german-speaking-virtual-assistant","type":"url","caption":"დეტალურად"}],"subtitle":"Remote • Part-time","image_url":"https://t3842019.p.clickup-attachments.com/t3842019/b42b093e-05fc-48c6-b0ea-2e994cafb591/unnamed%20(1).webp"}
+        ]
+      }
+    ]
+  }
+}
